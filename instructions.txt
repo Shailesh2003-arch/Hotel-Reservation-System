@@ -1,0 +1,10 @@
+=============================== Hotel Reservation System ============================================
+
+This is a Console Based Project made using Java Language to understand JDBC (Java Database Connectivity)
+It consist the database connection of user's local database server that exists on his/her system,
+If you don't have the local database server up and running as a seperate process in your system, you will have to install and run one.
+
+======================================================================================================
+
+Here in this specific project, the database design (schema) will be actually written beforehand inside the mysql workbench by using the 
+required attributes as needed, and then - The required action (methods) will be called from a class using it's object.
